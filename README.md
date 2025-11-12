@@ -1,4 +1,4 @@
-# driftq-observability
+# DriftQ-Observability
 
 Prometheus + Grafana stack for **DriftQ**. Ships with:
 - Prometheus scrape config for the broker at `:8080/metrics`
