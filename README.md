@@ -14,7 +14,7 @@ Prometheus + Grafana stack for **DriftQ**. Ships with:
 ## Quick start
 
 ```bash
-git clone https://github.com/yourname/driftq-observability.git
+git clone https://github.com/driftq-org/DriftQ-Observability.git
 cd driftq-observability
 docker compose up -d
 ```
